@@ -7,7 +7,7 @@ This Chrome extension scrapes members from a target WhatsApp group. Simply open 
 
 
 ### Features
-*   **Scrapes WhatsApp group member usernames and profile links**
+*   **Scrapes WhatsApp group member names, phone number and bio**
 *   **Saves data in a `.txt` file**
 *   **Easy one-click scraping process**
 *   **Provides progress notifications**
