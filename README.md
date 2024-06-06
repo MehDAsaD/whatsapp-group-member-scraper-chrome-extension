@@ -50,4 +50,9 @@ This Chrome extension scrapes members from a target WhatsApp group. Simply open 
    ![Screenshot 3](screenshot/extension-3.png)
 
 
+### Product Link
+
+This extension is part of the Virtual User WhatsApp Bulk Sender Bot Package. For more information about this package, please visit [the product page on the Virtual User website.](https://www.v-user.com/en/side-products/whatsapp-bulk-message-sender)
+
+
 #WhatsAppScraper #ChromeExtension #DataScraping #WebScraping #JavaScript #WhatsAppGroupScraper #WhatsAppMemberScraper #GroupMemberScraper
